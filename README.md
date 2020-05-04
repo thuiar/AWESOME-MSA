@@ -7,7 +7,7 @@
 :monkey:[Related Reviews](#related-reviews)  
 :monkey:[Related Conferences and Journals](#related-conferences-and-journals)   
 :monkey:[Multimodal Sentiment Analysis](#multimodal-sentiment-analysis)  
-:monkey:[Multimodal Emotion Recognition](#multimodal-sentiment-analysis)  
+:monkey:[Emotion Recognition in Conversations](#emotion-recognition-in-conversations)  
 
 ## Related Repos
 - [AWESOME-FER](https://github.com/EvelynFan/AWESOME-FER)
@@ -27,7 +27,7 @@
     
 ### Related Reviews
 - (2019) [Trends in Integration of Vision and Language Research: A Survey of Tasks, Datasets, and Methods](https://arxiv.org/abs/1907.09358)
-- (2019) [Multimodal Machine Learning: A Survey and Taxonomy](https://ieeexplore.ieee.org/abstract/document/8269806/)  
+- (2019) [Multimodal Machine Learning: A Survey and Taxonomy](https://ieeexplore.ieee.org/abstract/document/8269806/)  (:bulb: :bulb: :bulb:)
 - (2019) [Deep Multimodal Representation Learning: A Survey](https://ieeexplore.ieee.org/abstract/document/8715409/)
 - (2019) [Multimodal Intelligence: Representation Learning, Information Fusion, and Applications](https://arxiv.org/abs/1911.03977)
 - (2018) [Multimodal Sentiment Analysis: Addressing Key Issues and Setting up Baselines](https://ieeexplore.ieee.org/abstract/document/8636432/) 
@@ -38,19 +38,21 @@
 
 ### Related Conferences and Journals
 #### Coferences
-- [ACL & EMNLP & NAACL & COLing](https://www.aclweb.org/anthology/)
+- [ACL & EMNLP & NAACL & CoLing](https://www.aclweb.org/anthology/)
 - [AAAI](https://www.aaai.org/Library/AAAI/aaai-library.php)
 - [IJCAI](https://www.ijcai.org/proceedings/2019/)
 - [ICLR](https://openreview.net/group?id=ICLR.cc/2019/Conference)
 - [ICML](https://icml.cc/Conferences/2018/Schedule)
 - [NeurIPS](https://nips.cc/Conferences/2018/Schedule?type=Poster)
 - [ICMI](https://www.icmi.com/)
+- [ACM-MM]()
 
 #### Journals
 - [IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE]()
-- [IEEE Access]()
+- [IEEE Transactions on Multimedia]()
 - [Knowledge-based System]()
 - [Information Fusion]()
+- [IEEE Access]()
 
 ### Multimodal Sentiment Analysis
 ---
@@ -64,4 +66,7 @@
 
 #### International Conference on Learning Representations (ICLR)
 
-#### 
+#### International Conference on Machine Learning (ICML)
+
+
+### Emotion Recognition in Conversations
