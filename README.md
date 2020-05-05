@@ -12,6 +12,11 @@
 ## Related Repos
 - [AWESOME-FER](https://github.com/EvelynFan/AWESOME-FER)
 - [awesome-multimodal-ml](https://github.com/pliang279/awesome-multimodal-ml)
+- [CMU-Multimodal-SDK](https://github.com/A2Zadeh/CMU-MultimodalSDK)
+- [Multimodal-Emotion-Recognition](https://github.com/maelfabien/Multimodal-Emotion-Recognition)
+- [Multimodal-Sentiment-Analysis](https://github.com/soujanyaporia/multimodal-sentiment-analysis)
+- [awesome-sentiment-analysis](https://github.com/xiamx/awesome-sentiment-analysis)
+- [awesome-nlp-sentiment-analysis](https://github.com/haiker2011/awesome-nlp-sentiment-analysis)
 
 ### Related Datasets
 - (2020) [CH-SIMS]() \[[paper](), [code]()\]
