@@ -1,5 +1,5 @@
 # AWESOME-MSA
-> multimodal sentiment analysis  
+> Multimodal Sentiment Analysis  
 
 ## Table of Contents
 :monkey:[Related Repos](#related-repos)   
@@ -44,14 +44,14 @@
 
 ### Related Conferences and Journals
 #### Coferences
-- [ACL & EMNLP & NAACL & CoLing](https://www.aclweb.org/anthology/)
-- [AAAI](https://www.aaai.org/Library/AAAI/aaai-library.php)
-- [IJCAI](https://www.ijcai.org/proceedings/2019/)
-- [ICLR](https://openreview.net/group?id=ICLR.cc/2019/Conference)
-- [ICML](https://icml.cc/Conferences/2018/Schedule)
-- [NeurIPS](https://nips.cc/Conferences/2018/Schedule?type=Poster)
-- [ICMI](https://www.icmi.com/)
-- [ACM-MM](https://2020.acmmm.org/)
+[ACL & EMNLP & NAACL & CoLing](https://www.aclweb.org/anthology/), 
+[AAAI](https://www.aaai.org/Library/AAAI/aaai-library.php), 
+[IJCAI](https://www.ijcai.org/proceedings/2019/), 
+[ICLR](https://openreview.net/group?id=ICLR.cc/2019/Conference), 
+[ICML](https://icml.cc/Conferences/2018/Schedule), 
+[NeurIPS](https://nips.cc/Conferences/2018/Schedule?type=Poster), 
+[ICMI](https://www.icmi.com/), 
+[ACM-MM](https://2020.acmmm.org/)
 
 #### Journals
 [IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE](),
@@ -126,7 +126,7 @@
 - (2019) [DeepCU: Integrating both Common and Unique Latent Information for Multimodal Sentiment Analysis](https://www.ijcai.org/Proceedings/2019/0503.pdf)
 - (2019) [Adapting BERT for Target-Oriented Multimodal Sentiment Classification](https://www.ijcai.org/Proceedings/2019/0751.pdf) \[[code](https://github.com/jefferyYu/TomBERT)\]
 - (2019) [Multi-view Clustering via Late Fusion Alignment Maximization](https://www.ijcai.org/proceedings/2019/0524.pdf)
-- (2019) [Towards Discriminative Representation Learning for Speech Emotion Recognition](https://www.ijcai.org/Proceedings/2019/0703.pdf) \[[[code](https://github.com/thuhcsi/IJCAI2019-DRL4SER)\]
+- (2019) [Towards Discriminative Representation Learning for Speech Emotion Recognition](https://www.ijcai.org/Proceedings/2019/0703.pdf) \[[code](https://github.com/thuhcsi/IJCAI2019-DRL4SER)\]
 
 #### International Conference on Learning Representations (ICLR)
 - (2020) [Factorized Multimodal Transformer for Multimodal Sequential Learning](https://openreview.net/pdf?id=BJxD11HFDS) \[[code](https://github.com/A2Zadeh/Factorized-Multimodal-Transformer)\]
