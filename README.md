@@ -36,6 +36,7 @@
 - (2019) [Deep Multimodal Representation Learning: A Survey](https://ieeexplore.ieee.org/abstract/document/8715409/)
 - (2019) [Multimodal Intelligence: Representation Learning, Information Fusion, and Applications](https://arxiv.org/abs/1911.03977)
 - (2018) [Multimodal Sentiment Analysis: Addressing Key Issues and Setting up Baselines](https://ieeexplore.ieee.org/abstract/document/8636432/) 
+- (2016) [Chinese Textual Sentiment Analysis: Datasets, Resources and Tools](https://www.aclweb.org/anthology/C16-3002.pdf)
 - (2017) [A review of affective computing: From unimodal analysis to multimodal fusion](https://www.sciencedirect.com/science/article/pii/S1566253517300738)
 - (2017) [A survey of multimodal sentiment analysis](https://www.sciencedirect.com/science/article/pii/S0262885617301191) 
 - (2013) [Representation Learning: A Review and New Perspectives](https://ieeexplore.ieee.org/abstract/document/6472238/)
@@ -99,15 +100,42 @@
 - (2018) [Sentiment Analysis: It’s Complicated!](https://www.aclweb.org/anthology/N18-1171.pdf) \[[code](https://github.com/networkdynamics/mcgill-tsa)\]
 - (2016) [Bridge Correlational Neural Networks for Multilingual Multimodal Representation Learning](https://www.aclweb.org/anthology/N16-1021.pdf)
 
+#### International Conference on Computational Linguistics （CoLing）
+- (2018) [Hybrid Attention based Multimodal Network for Spoken Language Classification](https://www.aclweb.org/anthology/C18-1201.pdf)
+- (2018) [Learning Emotion­enriched Word Representations](https://www.aclweb.org/anthology/C18-1081.pdf)
+- (2018) [Emotion Detection and Classification in a Multigenre Corpus with Joint Multi­Task Deep Learning](https://www.aclweb.org/anthology/C18-1246.pdf)
+- (2016) [Multimodal Mood Classification ­ A Case Study of Differences in Hindi and Western Songs](https://www.aclweb.org/anthology/C16-1186.pdf)
+
 #### Association for the Advancement of Artificial Intelligence (AAAI)
+- (2019) [VistaNet: Visual Aspect Attention Network for Multimodal Sentiment Analysis](https://aaai.org/ojs/index.php/AAAI/article/view/3799) \[[code](https://github.com/PreferredAI/vista-net)\]
+- (2019) [Multi-Interactive Memory Network for Aspect Based Multimodal Sentiment Analysis](https://aaai.org/ojs/index.php/AAAI/article/view/3807) \[[code](https://github.com/xunan0812/MIMN)\]
+- (2019) [An Efficient Approach to Informative Feature Extraction from Multimodal Data](https://aaai.org/ojs/index.php/AAAI/article/view/4464)
 - (2019) [Words Can Shift: Dynamically Adjusting Word Representations Using Nonverbal Behaviors](https://www.aaai.org/ojs/index.php/AAAI/article/download/4706/4584) \[[code](https://github.com/victorywys/RAVEN)\]
 - (2019) [Found in Translation: Learning Robust Joint Representations by Cyclic Translations Between Modalities](https://wvvw.aaai.org/ojs/index.php/AAAI/article/download/4666/4544) 
 - (2019) [Modality to Modality Translation: An Adversarial Representation Learning and Graph Fusion Network for Multimodal Fusion](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-MaiS.10285.pdf)
+- (2018) [Learning Multimodal Word Representation via Dynamic Fusion Methods](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16167/16164)
+- (2018) [Predicting Depression Severity by Multi-Modal Feature Engineering and Fusion](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16415/16511)
 - (2018) [Memory Fusion Network for Multi-View Sequential Learning](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPDFInterstitial/17341/16122) \[[code](https://github.com/pliang279/MFN)\]
 - (2018) [Inferring Emotion from Conversational Voice Data: A Semi-Supervised Multi-Path Generative Neural Network Approach](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPDFInterstitial/17236/15735) 
+- (2017) [Multimodal Fusion of EEG and Musical Features in Music-Emotion Recognition](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14831/14237)
+- (2016) [Personalized Microblog Sentiment Classification via Multi-Task Learning](https://aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12031/12061)
+
+#### International Joint Conferences on Artificial Intelligence (IJCAI)
+- (2019) [Success Prediction on Crowdfunding with Multimodal Deep Learning](https://www.ijcai.org/proceedings/2019/0299.pdf)
+- (2019) [AttnSense: Multi-level Attention Mechanism For Multimodal Human Activity Recognition](https://www.ijcai.org/Proceedings/2019/0431.pdf) \[[code](https://github.com/zzpustc/ML-Application-on-Network)\]
+- (2019) [DeepCU: Integrating both Common and Unique Latent Information for Multimodal Sentiment Analysis](https://www.ijcai.org/Proceedings/2019/0503.pdf)
+- (2019) [Adapting BERT for Target-Oriented Multimodal Sentiment Classification](https://www.ijcai.org/Proceedings/2019/0751.pdf) \[[code](https://github.com/jefferyYu/TomBERT)\]
+- (2019) [Multi-view Clustering via Late Fusion Alignment Maximization](https://www.ijcai.org/proceedings/2019/0524.pdf)
 
 #### International Conference on Learning Representations (ICLR)
+- (2020) [Factorized Multimodal Transformer for Multimodal Sequential Learning](https://openreview.net/pdf?id=BJxD11HFDS) \[[code](https://github.com/A2Zadeh/Factorized-Multimodal-Transformer)\]
 - (2019) [Learning Factorized Multimodal Representations](https://openreview.net/forum?id=rygqqsA9KX) \[[code](https://github.com/pliang279/factorized)\]
+
+#### Neural Information Processing Systems (NeurIPS)
+- (2018) [Learning Robust Joint Representations for Multimodal Sentiment Analysis](https://openreview.net/pdf?id=rkgx8x1js7)
+
+#### Other
+- (2020) [OmniNet: A unified architecture for multi-modal multi-task learning](https://openreview.net/pdf?id=HJgdo6VFPH) \[[code](https://github.com/subho406/OmniNet), [Review](https://openreview.net/forum?id=HJgdo6VFPH)\]
 
 <!-- #### International Conference on Machine Learning (ICML) -->
 
