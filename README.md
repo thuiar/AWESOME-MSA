@@ -21,7 +21,7 @@
 ### Related Datasets
 - (2020) [CH-SIMS]() \[[paper](), [code]()\]
 - (2019) [UR-FUNNY](https://github.com/ROC-HCI/UR-FUNNY) \[[paper](https://www.aclweb.org/anthology/D19-1211/)\]
-- (2019) [MELD](http://affective-meld.github.io) \[[paper](https://www.aclweb.org/anthology/P19-1050.pdf)\]
+- (2019) [MELD](http://affective-meld.github.io) \[[paper](https://www.aclweb.org/anthology/P19-1050.pdf), [code](https://github.com/SenticNet/MELD)\]
 - (2018) [MOSEI](http://immortal.multicomp.cs.cmu.edu) \[[paper](https://www.aclweb.org/anthology/P18-1208.pdf)\]
 - (2016) [MOSI](http://immortal.multicomp.cs.cmu.edu) \[[paper](https://arxiv.org/abs/1606.06259)\]
 - (2013) [MOUD](https://web.eecs.umich.edu/~mihalcea/downloads.html) \[[paper](https://www.aclweb.org/anthology/P13-1096.pdf)\]
@@ -64,9 +64,13 @@
 ### Multimodal Sentiment Analysis
 ---
 #### Association for Computational Linguistics (ACL)
+- (2019) [Modality-based Factorization for Multimodal Fusion](https://www.aclweb.org/anthology/W19-4331.pdf)
+- (2019) [Divide, Conquer and Combine: Hierarchical Feature Fusion Network with Local and Global Perspectives for Multimodal Affective Computing](https://www.aclweb.org/anthology/P19-1046.pdf) 
+- (2019) [Multimodal and Multi­view Models for Emotion Recognition](https://www.aclweb.org/anthology/P19-1095.pdf) \[[code](https://github.com/tzirakis/Multimodal-Emotion-Recognition)\]
 - (2019) [Multimodal Transformer for Unaligned Multimodal Language Sequences](https://www.aclweb.org/anthology/P19-1656.pdf) \[[code](https://github.com/yaohungt/Multimodal-Transformer)\]
 - (2019) [Contextual Inter-modal Attention for Multi-modal Sentiment Analysis](https://www.aclweb.org/anthology/D18-1382.pdf) \[[code](https://github.com/soujanyaporia/contextual-multimodal-fusion)\]
 - (2019) [Towards Multimodal Sarcasm Detection (An Obviously Perfect Paper)](https://www.aclweb.org/anthology/P19-1455.pdf) \[[code](https://github.com/soujanyaporia/MUStARD)\]
+- (2018) [Getting the subtext without the text: Scalable multimodal sentiment classification from visual and acoustic modalities](https://www.aclweb.org/anthology/W18-3301.pdf)
 - (2018) [Recognizing Emotions in Video Using Multimodal DNN Feature Fusion](https://www.aclweb.org/anthology/W18-3302.pdf) \[[code](https://github.com/rhoposit/MultimodalDNN)\]
 - (2018) [Efficient Low-rank Multimodal Fusion with Modality-Specific Factors](https://www.aclweb.org/anthology/P18-1209.pdf) \[[code](https://github.com/Justin1904/Low-rank-Multimodal-Fusion)\]
 - (2018) [Multimodal Affective Analysis Using Hierarchical Attention Strategy with Word-Level Alignment](https://www.aclweb.org/anthology/P18-1207.pdf)
@@ -74,12 +78,26 @@
 - (2018) [Sentiment Analysis using Imperfect Views from Spoken Language and Acoustic Modalities](https://www.aclweb.org/anthology/W18-3305.pdf)
 - (2018) [Seq2Seq2Sentiment: Multimodal Sequence to Sequence Models for Sentiment Analysis](https://www.aclweb.org/anthology/W18-3308.pdf)
 - (2018) [Convolutional Attention Networks for Multimodal Emotion Recognition from Speech and Text Data](https://www.aclweb.org/anthology/W18-3304.pdf)
+- (2018) [DNN Multimodal Fusion Techniques for Predicting Video Sentiment](https://www.aclweb.org/anthology/W18-3309.pdf)
 - (2017) [Context-Dependent Sentiment Analysis in User-Generated Videos](https://www.aclweb.org/anthology/P17-1081.pdf) \[[code](https://github.com/soujanyaporia/contextual-utterance-level-multimodal-sentiment-analysis)\]
+- (2017) [Multimodal Machine Learning: Integrating Language, Vision and Speech](https://www.aclweb.org/anthology/P17-5002.pdf)
 
 #### Empirical Methods in Natural Language Processing (EMNLP)
+- (2019) [Context­aware Interactive Attention for Multi­modal Sentiment and Emotion Analysis](https://www.iitp.ac.in/~ai-nlp-ml/papers/emnlp19-emotion.pdf) \[[code](https://github.com/DushyantChauhan/EMNLP-19-IIM/tree/master)\]
+- (2018) [Associative Multichannel Autoencoder for Multimodal Word Representation](https://www.aclweb.org/anthology/D18-1011.pdf) \[[code](https://github.com/wangshaonan/Associative-multichannel-autoencoder)\]
+- (2018) [Contextual Inter-­modal Attention for Multi­modal Sentiment Analysis](https://www.aclweb.org/anthology/D18-1382.pdf) \[[code](https://github.com/soujanyaporia/contextual-multimodal-fusion)\]
+- (2018) [Importance of Self­Attention for Sentiment Analysis](https://www.aclweb.org/anthology/W18-5429.pdf)
+- (2018) [Improving Multi­-label Emotion Classification via Sentiment Classification with Dual Attention Transfer Network](https://www.aclweb.org/anthology/D18-1137.pdf)
 - (2017) [Tensor Fusion Network for Multimodal Sentiment Analysis](https://www.aclweb.org/anthology/D17-1115.pdf) \[[code](https://github.com/A2Zadeh/TensorFusionNetwork)\]
+- (2015) [Deep Convolutional Neural Network Textual Features and Multiple Kernel Learning for Utterance­level Multimodal Sentiment Analysis](https://www.aclweb.org/anthology/D15-1303.pdf)
 
-<!-- #### North American Chapter of the Association for Computational Linguistics (NAACL) -->
+#### North American Chapter of the Association for Computational Linguistics (NAACL)
+- (2019) [Strong and Simple Baselines for Multimodal Utterance Embeddings](https://www.aclweb.org/anthology/N19-1267.pdf) \[[code](https://github.com/yaochie/multimodal-baselines)\]
+- (2019) [Quantifiers in a Multimodal World: Hallucinating Vision with Language and Sound](https://www.aclweb.org/anthology/W19-2912.pdf)
+- (2019) [Multi­task Learning for Multi­modal Emotion Recognition and Sentiment Analysis](https://www.aclweb.org/anthology/N19-1034.pdf) \[[code](https://github.com/DushyantChauhan/NAACL-19-CIM)\]
+- (2018) [Multimodal Emoji Prediction](https://www.aclweb.org/anthology/N18-2107.pdf)
+- (2018) [Sentiment Analysis: It’s Complicated!](https://www.aclweb.org/anthology/N18-1171.pdf) \[[code](https://github.com/networkdynamics/mcgill-tsa)\]
+- (2016) [Bridge Correlational Neural Networks for Multilingual Multimodal Representation Learning](https://www.aclweb.org/anthology/N16-1021.pdf)
 
 #### Association for the Advancement of Artificial Intelligence (AAAI)
 - (2019) [Words Can Shift: Dynamically Adjusting Word Representations Using Nonverbal Behaviors](https://www.aaai.org/ojs/index.php/AAAI/article/download/4706/4584) \[[code](https://github.com/victorywys/RAVEN)\]
