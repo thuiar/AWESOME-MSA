@@ -129,13 +129,13 @@
 - (2019) [Towards Discriminative Representation Learning for Speech Emotion Recognition](https://www.ijcai.org/Proceedings/2019/0703.pdf) \[[code](https://github.com/thuhcsi/IJCAI2019-DRL4SER)\]
 
 #### International Conference on Learning Representations (ICLR)
-- (2020) [Factorized Multimodal Transformer for Multimodal Sequential Learning](https://openreview.net/pdf?id=BJxD11HFDS) \[[code](https://github.com/A2Zadeh/Factorized-Multimodal-Transformer)\]
 - (2019) [Learning Factorized Multimodal Representations](https://openreview.net/forum?id=rygqqsA9KX) \[[code](https://github.com/pliang279/factorized)\]
 
 #### Neural Information Processing Systems (NeurIPS)
 - (2018) [Learning Robust Joint Representations for Multimodal Sentiment Analysis](https://openreview.net/pdf?id=rkgx8x1js7)
 
 #### Other
+- (2020) [Factorized Multimodal Transformer for Multimodal Sequential Learning](https://openreview.net/pdf?id=BJxD11HFDS) \[[code](https://github.com/A2Zadeh/Factorized-Multimodal-Transformer)\]
 - (2020) [OmniNet: A unified architecture for multi-modal multi-task learning](https://openreview.net/pdf?id=HJgdo6VFPH) \[[code](https://github.com/subho406/OmniNet), [Review](https://openreview.net/forum?id=HJgdo6VFPH)\]
 
 <!-- #### International Conference on Machine Learning (ICML) -->
