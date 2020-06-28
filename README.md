@@ -1,5 +1,5 @@
 # AWESOME-MSA
-> Multimodal Sentiment Analysis  
+> Paper List for Multimodal Sentiment Analysis  
 
 ## Table of Contents
 :monkey:[Related Repos](#related-repos)   
@@ -12,6 +12,7 @@
 ## Related Repos
 - [AWESOME-FER](https://github.com/EvelynFan/AWESOME-FER)
 - [awesome-multimodal-ml](https://github.com/pliang279/awesome-multimodal-ml)
+- [awesome-multimodal-research](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research)
 - [CMU-Multimodal-SDK](https://github.com/A2Zadeh/CMU-MultimodalSDK)
 - [Multimodal-Emotion-Recognition](https://github.com/maelfabien/Multimodal-Emotion-Recognition)
 - [Multimodal-Sentiment-Analysis](https://github.com/soujanyaporia/multimodal-sentiment-analysis)
@@ -123,7 +124,7 @@
 #### International Joint Conferences on Artificial Intelligence (IJCAI)
 - (2019) [Success Prediction on Crowdfunding with Multimodal Deep Learning](https://www.ijcai.org/proceedings/2019/0299.pdf)
 - (2019) [AttnSense: Multi-level Attention Mechanism For Multimodal Human Activity Recognition](https://www.ijcai.org/Proceedings/2019/0431.pdf) \[[code](https://github.com/zzpustc/ML-Application-on-Network)\]
-- (2019) [DeepCU: Integrating both Common and Unique Latent Information for Multimodal Sentiment Analysis](https://www.ijcai.org/Proceedings/2019/0503.pdf)
+- (2019) [DeepCU: Integrating both Common and Unique Latent Information for Multimodal Sentiment Analysis](https://www.ijcai.org/Proceedings/2019/0503.pdf) \[[code](https://github.com/sverma88/DeepCU-IJCAI19)\]
 - (2019) [Adapting BERT for Target-Oriented Multimodal Sentiment Classification](https://www.ijcai.org/Proceedings/2019/0751.pdf) \[[code](https://github.com/jefferyYu/TomBERT)\]
 - (2019) [Multi-view Clustering via Late Fusion Alignment Maximization](https://www.ijcai.org/proceedings/2019/0524.pdf)
 - (2019) [Towards Discriminative Representation Learning for Speech Emotion Recognition](https://www.ijcai.org/Proceedings/2019/0703.pdf) \[[code](https://github.com/thuhcsi/IJCAI2019-DRL4SER)\]
