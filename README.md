@@ -7,7 +7,7 @@
 :monkey:[Related Reviews](#related-reviews)  
 :monkey:[Related Conferences and Journals](#related-conferences-and-journals)   
 :monkey:[Multimodal Sentiment Analysis](#multimodal-sentiment-analysis)  
-:monkey:[Emotion Recognition in Conversations](#emotion-recognition-in-conversations)  
+:monkey:[Multimodal Emotion Recognition in Conversations](#emotion-recognition-in-conversations)  
 
 ## Related Repos
 - [AWESOME-FER](https://github.com/EvelynFan/AWESOME-FER)
@@ -20,7 +20,7 @@
 - [awesome-nlp-sentiment-analysis](https://github.com/haiker2011/awesome-nlp-sentiment-analysis)
 
 ### Related Datasets
-- (2020) [CH-SIMS]() \[[paper](), [code]()\]
+- (2020) [CH-SIMS](https://github.com/thuiar/MMSA) \[[paper](https://www.aclweb.org/anthology/2020.acl-main.343/), [code](https://github.com/thuiar/MMSA)\]
 - (2019) [UR-FUNNY](https://github.com/ROC-HCI/UR-FUNNY) \[[paper](https://www.aclweb.org/anthology/D19-1211/)\]
 - (2019) [MELD](http://affective-meld.github.io) \[[paper](https://www.aclweb.org/anthology/P19-1050.pdf), [code](https://github.com/SenticNet/MELD)\]
 - (2018) [MOSEI](http://immortal.multicomp.cs.cmu.edu) \[[paper](https://www.aclweb.org/anthology/P18-1208.pdf)\]
@@ -66,6 +66,7 @@
 ### Multimodal Sentiment Analysis
 ---
 #### Association for Computational Linguistics (ACL)
+- (2020) [CH-SIMS: A Chinese Multimodal Sentiment Analysis Dataset with Fine-grained Annotations of Modality](https://www.aclweb.org/anthology/2020.acl-main.343/) \[[code](https://github.com/thuiar/MMSA)\]
 - (2019) [Modality-based Factorization for Multimodal Fusion](https://www.aclweb.org/anthology/W19-4331.pdf)
 - (2019) [Divide, Conquer and Combine: Hierarchical Feature Fusion Network with Local and Global Perspectives for Multimodal Affective Computing](https://www.aclweb.org/anthology/P19-1046.pdf) 
 - (2019) [Multimodal and Multi­view Models for Emotion Recognition](https://www.aclweb.org/anthology/P19-1095.pdf) \[[code](https://github.com/tzirakis/Multimodal-Emotion-Recognition)\]
