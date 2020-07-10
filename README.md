@@ -57,6 +57,7 @@
 #### Journals
 [IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE](),
 [IEEE Transactions on Multimedia](), 
+[IEEE Transactions on Affective Computing](), 
 [Knowledge-based System](), 
 [Information Fusion](), 
 [IEEE Access](), 
@@ -66,7 +67,12 @@
 ### Multimodal Sentiment Analysis
 ---
 #### Association for Computational Linguistics (ACL)
+- (2020) [Integrating Multimodal Information in Large Pretrained Transformers](https://www.aclweb.org/anthology/2020.acl-main.214/) \[[code](https://github.com/WasifurRahman/BERT_multimodal_transformer)\]
+- (2020) [A Recipe for Creating Multimodal Aligned Datasets for Sequential Tasks Angela](https://www.aclweb.org/anthology/2020.acl-main.440/)
+- (2020) [Sentiment and Emotion help Sarcasm? A Multi-task Learning Framework for Multi-Modal Sarcasm, Sentiment and Emotion Analysis](https://www.aclweb.org/anthology/2020.acl-main.401/) \[[code](http://www.iitp.ac.in/˜ai-nlp-ml/resources.html)\]
 - (2020) [CH-SIMS: A Chinese Multimodal Sentiment Analysis Dataset with Fine-grained Annotations of Modality](https://www.aclweb.org/anthology/2020.acl-main.343/) \[[code](https://github.com/thuiar/MMSA)\]
+- (2020 Workshop) [A Transformer-based joint-encoding for Emotion Recognition and Sentiment Analysis](https://www.aclweb.org/anthology/2020.challengehml-1.1.pdf) \[[code](https://www.aclweb.org/anthology/2020.challengehml-1.1.pdf)\]
+- (2020 Workshop) [Low Rank Fusion based Transformers for Multimodal Sequences](https://www.aclweb.org/anthology/2020.challengehml-1.4.pdf)
 - (2019) [Modality-based Factorization for Multimodal Fusion](https://www.aclweb.org/anthology/W19-4331.pdf)
 - (2019) [Divide, Conquer and Combine: Hierarchical Feature Fusion Network with Local and Global Perspectives for Multimodal Affective Computing](https://www.aclweb.org/anthology/P19-1046.pdf) 
 - (2019) [Multimodal and Multi­view Models for Emotion Recognition](https://www.aclweb.org/anthology/P19-1095.pdf) \[[code](https://github.com/tzirakis/Multimodal-Emotion-Recognition)\]
