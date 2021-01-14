@@ -101,7 +101,7 @@
 - (2020) [MAF: Multimodal Alignment Framework for Weakly-Supervised Phrase Grounding](https://www.aclweb.org/anthology/2020.emnlp-main.159.pdf) 
 - (2020) [Does my multimodal model learn cross-modal interactions? It’s harder to tell than you might think!](https://www.aclweb.org/anthology/2020.emnlp-main.62/) \[[code](https://github.com/jmhessel/EMAP_EMNLP2020)\]
 - (2020) [Multistage Fusion with Forget Gate for Multimodal Summarization in Open-Domain Videos](https://www.aclweb.org/anthology/2020.emnlp-main.144.pdf) \[[code](https://github.com/forkarinda/MFN)\]
-- (2020) [Multi-modal Multi-label Emotion Detection with Modality and Label Dependence](https://www.aclweb.org/anthology/2020.emnlp-main.291.pdf)
+- (2020) [Multi-modal Multi-label Emotion Detection with Modality and Label Dependence](https://www.aclweb.org/anthology/2020.emnlp-main.291.pdf) \[[code](https://github.com/MANLP-suda/MMS2S)\]
 - (2019) [Context­aware Interactive Attention for Multi­modal Sentiment and Emotion Analysis](https://www.iitp.ac.in/~ai-nlp-ml/papers/emnlp19-emotion.pdf) \[[code](https://github.com/DushyantChauhan/EMNLP-19-IIM/tree/master)\]
 - (2018) [Associative Multichannel Autoencoder for Multimodal Word Representation](https://www.aclweb.org/anthology/D18-1011.pdf) \[[code](https://github.com/wangshaonan/Associative-multichannel-autoencoder)\]
 - (2018) [Contextual Inter-­modal Attention for Multi­modal Sentiment Analysis](https://www.aclweb.org/anthology/D18-1382.pdf) \[[code](https://github.com/soujanyaporia/contextual-multimodal-fusion)\]
@@ -158,6 +158,9 @@
 ### Other
 - (2020) [Factorized Multimodal Transformer for Multimodal Sequential Learning](https://openreview.net/pdf?id=BJxD11HFDS) \[[code](https://github.com/A2Zadeh/Factorized-Multimodal-Transformer)\]
 - (2020) [OmniNet: A unified architecture for multi-modal multi-task learning](https://openreview.net/pdf?id=HJgdo6VFPH) \[[code](https://github.com/subho406/OmniNet), [Review](https://openreview.net/forum?id=HJgdo6VFPH)\]
+
+### IEEE International Conference on Data Mining (ICDM)
+- (2020) [Deep-HOSeq: Deep Higher Order Sequence Fusion for Multimodal Sentiment Analysis](https://arxiv.org/abs/2010.08218) \[[code](https://github.com/sverma88/Deep-HOSeq--ICDM-2020)\]
 
 <!-- #### International Conference on Machine Learning (ICML) -->
 
